@@ -1,0 +1,4 @@
+*.sqlite3
+apikey_amadeus.txt
+secret_settings.py
+*.pyc
